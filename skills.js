@@ -1,4 +1,4 @@
-function calculateNumber(a,b) {
-    return Math.round(a) + Math.round(b);
+function calculateNumber(var1,var2) {
+    return Math.round(var1) + Math.round(var2);
 }
 
